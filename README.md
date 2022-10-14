@@ -10,7 +10,7 @@ Description: Project will consist of a tutorial on how to create a Virtual Machi
 
 <h2> Demonstration</h2>
 - After setting up an Azure acccount by creating an subcsciption, you are going to select virtual machines
-- https://images.app.goo.gl/7pzSVeniYnukK1RZ6
+- <image> https://images.app.goo.gl/7pzSVeniYnukK1RZ6 </image>
 
            
 
