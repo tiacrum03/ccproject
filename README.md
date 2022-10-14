@@ -10,12 +10,12 @@ Description: Project will consist of a tutorial on how to create a Virtual Machi
 
 <h2> Demonstration</h2>
 - After setting up an Azure acccount and creating an subcsciption, you are going to select virtual machines
-- <img src= ("https://images.app.goo.gl/7pzSVeniYnukK1RZ6") />
+- ![portal-quick-start-9](https://user-images.githubusercontent.com/115722349/195944793-1e256037-2ef6-4757-99c6-f20160f4d77e.png)
+
 -
 -  Enter project details
 -  Once all neccessary details are filled out, you can click the create button at the bottom of the page (this process may take a few minutes, once complete, the VM is ready to use
 
-<h2> Enter Project details</h2>
 
 
 
