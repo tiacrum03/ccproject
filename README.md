@@ -10,7 +10,7 @@ Description: Project will consist of a tutorial on how to create a Virtual Machi
 
 <h2> Demonstration</h2>
 - After setting up an Azure acccount and creating an subcsciption, you are going to select virtual machines
-- <img src"(https://user-images.githubusercontent.com/115722349/195944793-1e256037-2ef6-4757-99c6-f20160f4d77e.png)/>
+- <img src "https://learn.microsoft.com/en-us/azure/virtual-machines/windows/media/quick-create-portal/portal-quick-start-9.png"/>
 
 -
 -  Enter project details
