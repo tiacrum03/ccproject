@@ -10,7 +10,7 @@ Description: Project will consist of a tutorial on how to create a bug report us
 
 <h2> Demonstration</h2>
 - After setting up an Jira acccount and creating a project name, you are going to select 'Create'
-<img src="https://deviniti.com/support/cloud/rtm/latest/create-defect/create-defect-8.png" height="80%" width="80%" alt="Demonstration"/>
+<img src="https://miro.medium.com/max/1400/1*DlkxaovGTJDOAnq_EpSaKw.png" height="80%" width="80%" alt="Demonstration"/>
 
 
 - <h2>Steps</h2>
