@@ -6,7 +6,7 @@ Description: Project will consist of a tutorial on how to create a bug report us
 - Windows 7
 - Remote latptop
 - Jira
-- 
+
 
 <h2> Demonstration</h2>
 - After setting up an Jira acccount, you are going to Create
