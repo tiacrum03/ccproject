@@ -10,7 +10,7 @@ Description: Project will consist of a tutorial on how to create a bug report us
 
 <h2> Demonstration</h2>
 - After setting up an Jira acccount and creating a project name, you are going to select 'Create'
-<img src="https://www.tutorialspoint.com/jira/images/create_another.jpg " height="80%" width="80%" alt="Demonstration"/>
+<img src="https://www.tutorialspoint.com/jira/images/create_another.jpg" height="80%" width="80%" alt="Demonstration"/>
 
 
 - <h2>Steps</h2>
