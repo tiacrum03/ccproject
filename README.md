@@ -4,7 +4,7 @@ Description: Project will consist of a tutorial on how to create a bug report us
 <h1> Environment and Technologies used </h1>
 
 - Windows 7
-- Remote latptop
+- Remote laptop
 - Jira
 
 
