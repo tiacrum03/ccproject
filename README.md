@@ -18,7 +18,7 @@ Description: Project will consist of a tutorial on how to create a bug report us
 - select the 'Project' name
 - select 'Bug' under issue type
 - submit a brief 'description' of bug under 'Summary'
-- upload a video or image of the bug (optional) under 'Attachments'
+- upload a video or image of the bug (optional) under 'Attachment'
 - submit a 'description' of bug (optional)
 - select a 'assignee'
 - select 'priority' rating
