@@ -24,7 +24,7 @@ Description: Project will consist of a tutorial on how to create a bug report us
 - select 'priority' rating
 - select 'Create' at bottom of form when complete
 
-<img src="https://images.ctfassets.net/lzny33ho1g45/7Cqf3uZpYFKO1gs93uQyym/78ef3286c8883acd12b48e6da90a4705/select_issue_type_in_Jira" height="80%" width="80%" alt="Steps"/>
+<img src="https://instabug.com/blog/wp-content/uploads/2017/08/create-a-defect.jpg" height="80%" width="80%" alt="Steps"/>
 
  
  
