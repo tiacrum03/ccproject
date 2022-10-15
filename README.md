@@ -13,7 +13,7 @@ Description: Project will consist of a tutorial on how to create a bug report us
 - <img src="https://images.app.goo.gl/WPuh98d5gJfe9jrN7 " height"80%" width="80%" alt="Demonstration"/>
 
 
-- This will prompt you to fill out a form
+- <h2>Steps</h2>
 - You will need to 
 - select the 'Project' name
 - select 'Bug' under issue type
