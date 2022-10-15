@@ -14,9 +14,9 @@ Description: Project will consist of a tutorial on how to create a Virtual Machi
 
 -
 -  Enter project details
--  <img src="https://www.whizlabs.com/blog/wp-content/uploads/2019/08/azure-virtual-machine-2-1.png" height"80%" width="80%" alt=/>
+-  <img src="https://www.whizlabs.com/blog/wp-content/uploads/2019/08/azure-virtual-machine-2-1.png" height"80%" width="80%" alt="Project Details"/>
 -  
--  Once all neccessary details are filled out, go to resources tab andyou can click the create button at the bottom of the page (this process may take a few minutes, once complete, the VM is ready to use
+-  Once all neccessary details are filled out, go to resources tab and you can click the create button at the bottom of the page (this process may take a few minutes, once complete, the VM is ready to use)
 
 
 
