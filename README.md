@@ -10,7 +10,7 @@ Description: Project will consist of a tutorial on how to create a bug report us
 
 <h2> Demonstration</h2>
 - After setting up an Jira acccount, you are going to Create
-- <img src="https://wiki.onosproject.org/download/attachments/1638745/jira-issue.png?version=3&modificationDate=1416503160654&api=v2 " height"50%" width="50%" alt="Demonstration"/>
+- <img src="[https://wiki.onosproject.org/download/attachments/1638745/jira-issue.png?version=3&modificationDate=1416503160654&api=v2](https://images.app.goo.gl/WPuh98d5gJfe9jrN7) " height"50%" width="50%" alt="Demonstration"/>
 
 -
 -  Enter project details
