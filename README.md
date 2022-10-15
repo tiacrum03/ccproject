@@ -17,18 +17,18 @@ Description: Project will consist of a tutorial on how to create a bug report us
 - You will need to 
 - select the 'Project' name
 - select 'Bug' under issue type
-- submit a brief description of bug under 'Summary'
-- upload a video or image of the bug (optional)
-- submit a description of bug (optional)
-- select a assignee
-- select priority rating
+- submit a brief 'description' of bug under 'Summary'
+- upload a video or image of the bug (optional) under 'Attachments'
+- submit a 'description' of bug (optional)
+- select a 'assignee'
+- select 'priority' rating
 - select 'Create' at bottom of form when complete
 
 <img src="https://images.ctfassets.net/lzny33ho1g45/7Cqf3uZpYFKO1gs93uQyym/78ef3286c8883acd12b48e6da90a4705/select_issue_type_in_Jira" height="80%" width="80%" alt="Steps"/>
 
  
  
--  Once all neccessary details are filled out, go back to the home page and you will see the bug report you created
+-  Once all neccessary details are filled out, go back to the home page and you will see the bug report you created &#128516;
 
 
 
