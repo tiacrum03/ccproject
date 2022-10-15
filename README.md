@@ -1,4 +1,4 @@
-# Bugreport 
+# Bug Report 
 Description: Project will consist of a tutorial on how to create a bug report using Jira
 
 <h1> Environment and Technologies used </h1>
