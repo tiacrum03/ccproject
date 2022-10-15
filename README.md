@@ -17,12 +17,12 @@ Description: Project will consist of a tutorial on how to create a bug report us
 
 - You will need to 
 - select the 'Project' name
-- select 'Bug' under issue type
-- submit a brief 'description' of bug under 'Summary'
+- select 'Bug' under 'Issue type'
+- submit a brief 'Description' of bug under 'Summary'
 - upload a video or image of the bug (optional) under 'Attachment'
-- submit a 'description' of bug (optional)
-- select a 'assignee'
-- select 'priority' rating
+- submit a 'Description' of bug (optional)
+- select a 'Assignee'
+- select 'Priority' rating
 - select 'Create' at bottom of form when complete
 
 <img src="https://miro.medium.com/max/1400/1*DlkxaovGTJDOAnq_EpSaKw.png" height="80%" width="80%" alt="Steps"/>
