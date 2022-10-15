@@ -1,20 +1,20 @@
 # VMcreation
-Description: Project will consist of a tutorial on how to create a Virtual Machine (VM) using Azure.
+Description: Project will consist of a tutorial on how to create a bug report using Jira
 
 <h1> Environment and Technologies used </h1>
 
 - Windows 7
 - Remote latptop
-- Azure
-- Azure Virtual Machines
+- Jira
+- 
 
 <h2> Demonstration</h2>
-- After setting up an Azure acccount and creating an subcsciption, you are going to select virtual machines
-- <img src="https://azurelessons.com/wp-content/uploads/2020/05/How-to-create-a-windows-virtual-machine-in-azure.png " height"50%" width="50%" alt="Demonstration"/>
+- After setting up an Jira acccount, you are going to Create
+- <img src="https://wiki.onosproject.org/download/attachments/1638745/jira-issue.png?version=3&modificationDate=1416503160654&api=v2 " height"50%" width="50%" alt="Demonstration"/>
 
 -
 -  Enter project details
--  <img src="https://www.whizlabs.com/blog/wp-content/uploads/2019/08/azure-virtual-machine-2-1.png" height"80%" width="80%" alt="Project Details"/>
+-  <img src=" " height"50%" width="50%" alt="Demonstration"/>
 -  
 -  Once all neccessary details are filled out, go to resources tab and you can click the create button at the bottom of the page (this process may take a few minutes, once complete, the VM is ready to use)
 
