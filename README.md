@@ -14,6 +14,7 @@ Description: Project will consist of a tutorial on how to create a bug report us
 
 
  <h2>Steps</h2>
+
 - You will need to 
 - select the 'Project' name
 - select 'Bug' under issue type
