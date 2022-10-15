@@ -16,7 +16,7 @@ Description: Project will consist of a tutorial on how to create a bug report us
  <h2>Steps</h2>
 
 - You will need to 
-- select the 'Project' name
+- select a 'Project' name
 - select 'Bug' under 'Issue type'
 - submit a brief 'Description' of bug under 'Summary'
 - upload a video or image of the bug (optional) under 'Attachment'
