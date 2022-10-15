@@ -9,7 +9,7 @@ Description: Project will consist of a tutorial on how to create a bug report us
 
 
 <h2>Demonstration</h2>
-- After setting up an Jira acccount and creating a project name, you are going to select 'Create'
+- After setting up a Jira acccount and creating a project name, you are going to select 'Create'
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTC56xsJO-gJmiuv8GHu52d88T29Hdqn-aWeA&usqp=CAU" height="80%" width="80%" alt="Demonstration"/>
 
 
