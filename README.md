@@ -1,6 +1,6 @@
 # Bug Report 
 Description: Project will consist of a tutorial on how to create a bug report using Jira.
-Bug reports are a great tool to use as a way for QA testers and Developers to communicate to fix errors and stay in scope of business requirements of an application etc.
+Bug reports are a great way for QA testers and Developers to communicate to fix errors and stay in scope of business requirements of an application etc.
 <h1> Environment and Technologies used </h1>
 
 - Windows 7
