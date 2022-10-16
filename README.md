@@ -1,6 +1,6 @@
 # Bug Report 
-Description: Project will consist of a tutorial on how to create a bug report using Jira
-
+Description: Project will consist of a tutorial on how to create a bug report using Jira.
+Bug reports are a great tool to use as a way for QA testers and Developers to communicate to fix errors and stay in scope of business requirements of an application etc.
 <h1> Environment and Technologies used </h1>
 
 - Windows 7
@@ -21,7 +21,7 @@ Description: Project will consist of a tutorial on how to create a bug report us
 - submit a brief 'Description' of bug under 'Summary'
 - upload a video or image of the bug (optional) under 'Attachment'
 - submit a 'Description' of bug (optional)
-- select a 'Assignee'
+- select an 'Assignee'
 - select 'Priority' rating
 - select 'Create' at bottom of form when complete
 
